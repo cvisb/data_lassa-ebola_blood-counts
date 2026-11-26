@@ -1,0 +1,95 @@
+{
+  "creator": [
+    {
+      "@type": "Organization",
+      "identifier": "CViSB",
+      "name": "Center for Viral Systems Biology",
+      "url": "https://cvisb.org/",
+      "contactPoint": {
+        "contactType": "technical support",
+        "email": "info@cvisb.org",
+        "url": "https://cvisb.org/"
+      }
+    }
+  ],
+  "dateModified": "2026-11-25",
+  "datePublished": "2020-11-16",
+  "description": "Blood cell count measurement data of Ebola or Lassa survivors and non-survivors during the acute phase of infection.",
+  "funding": [
+    {
+      "funder": {
+        "@type": "Organization",
+        "alternateName": [
+          "NIAID"
+        ],
+        "description": "Funding for the Center for Viral Systems Biology is provided by National Institute of Allergy & Infectious Diseases (National Institutes for Health) award U19AI135995",
+        "name": "National Institute of Allergy & Infectious Diseases",
+        "parentOrganization": "National Institutes for Health",
+        "url": "https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=U19AI135995&arg_ProgOfficeCode=104"
+      },
+      "identifier": "U19AI135995"
+    }
+  ],
+  "identifier": "blood-counts-vhf",
+  "includedInDataCatalog": [
+    "https://data.cvisb.org/"
+  ],
+  "keywords": [
+    "blood cell count",
+    "comlete blood cell count",
+    "whole blood count",
+    "hemoglobin",
+    "platelets",
+    "neutrophils",
+    "bands",
+    "lymphocytes",
+    "monocytes",
+    "eosinophils",
+    "basophils",
+    "prothrombin time",
+    "international normalization ratio",
+    "dDimer",
+    "Ebola",
+    "Ebola virus",
+    "EBOV",
+    "Lassa",
+    "Lassa virus",
+    "LASV"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "measurementCategory": "clinical measurements",
+  "measurementTechnique": [
+    "Blood Cell Count"
+  ],
+  "name": "Blood Cell Counts of Ebola/Lassa Patients",
+  "publisher": [
+    {
+      "@type": "Organization",
+      "identifier": "CViSB",
+      "name": "Center for Viral Systems Biology",
+      "url": "https://cvisb.org/",
+      "contactPoint": {
+        "contactType": "technical support",
+        "email": "info@cvisb.org",
+        "url": "https://cvisb.org/"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "identifier": "SL",
+      "name": "Sierra Leone",
+      "url": "https://www.iso.org/obp/ui/#iso:code:3166:SL"
+    },
+    {
+      "identifier": "LR",
+      "name": "Liberia",
+      "url": "https://www.iso.org/obp/ui/#iso:code:3166:LR"
+    }
+  ],
+  "url": "https://data.cvisb.org/dataset/blood-counts-vhf",
+  "variableMeasured": [
+    "blood cell count"
+  ],
+  "version": 0.4
+}
